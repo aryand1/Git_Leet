@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/aryand1/Git_Leet/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/aryand1/Git_Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->

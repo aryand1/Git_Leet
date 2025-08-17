@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aryand1/Git_Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/aryand1/Git_Leet/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->

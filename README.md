@@ -37,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/aryand1/Git_Leet/tree/master/0492-construct-the-rectangle) |
+| [0866-rectangle-overlap](https://github.com/aryand1/Git_Leet/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/aryand1/Git_Leet/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->

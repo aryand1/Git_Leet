@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/aryand1/Git_Leet/tree/master/0551-student-attendance-record-i) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aryand1/Git_Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |

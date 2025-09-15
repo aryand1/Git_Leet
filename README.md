@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/aryand1/Git_Leet/tree/master/0551-student-attendance-record-i) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aryand1/Git_Leet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aryand1/Git_Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/aryand1/Git_Leet/tree/master/0866-rectangle-overlap) |
+## Hash Table
+|  |
+| ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aryand1/Git_Leet/tree/master/1264-maximum-number-of-words-you-can-type) |
 <!---LeetCode Topics End-->
